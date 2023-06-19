@@ -1,1 +1,1 @@
-# Game-Using-Hand-Gestures
+# Game Using Hand Gestures
